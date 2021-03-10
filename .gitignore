@@ -1,0 +1,6 @@
+node_modules/
+game/
+gameweb/
+yarn-error.log
+.DS_Store
+web/node_modules
